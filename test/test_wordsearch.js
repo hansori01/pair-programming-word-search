@@ -35,4 +35,5 @@ describe("#wordSearch()", function() {
 
     assert.isTrue(result);
   });
+  //make vertical test case for Larry
 });
